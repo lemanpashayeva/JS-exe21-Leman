@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(bg-img.jpg);
+}
+
+.container {
+    margin-top: 220px;
+    margin-left: 300px;
+}
+
+input {
+    background-color: transparent;
+    color: white;
+    border: 3px dashed sandybrown;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1.5rem;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    border: 3px dashed sandybrown;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1.2rem;
+}
+
+h3 {
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1.2rem;
+}
+
+p {
+    background-color: transparent;
+    color: white;
+    border: 3px dashed sandybrown;
+    padding: 15px 25px;
+    margin: 5px;
+    font-size: 1.5rem;
+}
